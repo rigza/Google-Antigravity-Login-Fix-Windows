@@ -1,6 +1,6 @@
-# Antigravity Login Fix (Windows)
+# Google Antigravity Login Fix (Windows)
 
-Fixes the Antigravity issue where the app opens but **you cannot log in** :
+Fixes Google Antigravity issue where the app opens but **you cannot log in** :
 
 ## Symptoms
 - Antigravity launches
@@ -9,7 +9,7 @@ Fixes the Antigravity issue where the app opens but **you cannot log in** :
 - Errors appear in console / logs
 
 ## Root Cause
-Antigravity is an Electron app.
+Google Antigravity is an Electron app.
 
 If Windows environment variables such as:
 - TEMP
