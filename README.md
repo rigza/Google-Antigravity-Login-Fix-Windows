@@ -30,7 +30,7 @@ are broken, missing, or unwritable, Electron fails during **startup login initia
 
 ## How to use (PowerShell)
 
-1. Download the repository
+1. Download the zip file
 2. Right-click `fix-antigravity.ps1`
 3. Click **Run with PowerShell**
 
