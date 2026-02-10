@@ -39,8 +39,5 @@ $ANTIGRAVITY_PATH = "$USERPROFILE\AppData\Local\Programs\Antigravity"
 Write-Host "Changing directory to $ANTIGRAVITY_PATH"
 Set-Location $ANTIGRAVITY_PATH
 
-# ---------------------------------------------------------
-# Step 5: Launch Antigravity with clean user-data-dir
-# ---------------------------------------------------------
-Write-Host "Launching Antigravity..."
-.\Antigravity.exe --user-data-dir="C:\Temp\antigravity-profile"
+
+
