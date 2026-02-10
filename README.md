@@ -23,8 +23,7 @@ are broken, missing, or unwritable, Electron fails during **startup login initia
 ✔ Stops stale Antigravity background processes  
 ✔ Restores valid TEMP / TMP / APPDATA paths (session-only)  
 ✔ Creates a clean temporary directory  
-✔ Launches Antigravity with a safe user profile  
-
+ 
 ❗ No permanent system changes are made.
 
 
