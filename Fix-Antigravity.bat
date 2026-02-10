@@ -34,8 +34,5 @@ set ANTIGRAVITY_PATH=%USERPROFILE%\AppData\Local\Programs\Antigravity
 echo Changing directory to %ANTIGRAVITY_PATH%
 cd /d "%ANTIGRAVITY_PATH%"
 
-REM --------------------------------------------------------
-REM Step 5: Launch Antigravity with clean profile
-REM --------------------------------------------------------
-echo Launching Antigravity...
-Antigravity.exe --user-data-dir="C:\Temp\antigravity-profile"
+
+
